@@ -11,3 +11,6 @@
   * [Pointer Sentinel Mixture Models](https://arxiv.org/abs/1609.07843)
   * [The wikitext long term dependency language modeling dataset](http://metamind.io/research/the-wikitext-long-term-dependency-language-modeling-dataset/)
   * [Dynamic Coattention Networks For Question Answering](https://arxiv.org/abs/1611.01604)
+  
+## Tasks:
+ *  [Metamind documentation review](http://docs.metamind.io/v1/docs)
