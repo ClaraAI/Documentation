@@ -13,5 +13,6 @@
   * [Dynamic Coattention Networks For Question Answering](https://arxiv.org/abs/1611.01604)
   
 ## Tasks:
- *  [Metamind documentation review](http://docs.metamind.io/v1/docs)
+ * [Metamind documentation review](http://docs.metamind.io/v1/docs)
+ * [PredictionIO documentation review](http://predictionio.incubator.apache.org/)
 
