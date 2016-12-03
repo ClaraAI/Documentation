@@ -2,8 +2,6 @@
 
 # AI Documentation
 
-## 
-## 
 
 ## Quick links:
   * [Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.hb5kpsdi4)
